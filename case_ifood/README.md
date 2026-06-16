@@ -312,10 +312,13 @@ Executar as células na seguinte ordem:
 ifood-case/
 
 ├── src/
-│   └── NYCTaxiSilverPipeline.py
+│   └── ingestion.py
+│   └── transformation.py
 
 ├── analysis/
-│   └── notebook.ipynb
+│   └── case_ifood.ipynb
+│   └── query_pergunta_1.sql
+│   └── query_pergunta_2.sql
 
 ├── README.md
 
